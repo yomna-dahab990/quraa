@@ -1,0 +1,1370 @@
+[
+    {
+        "number": 1,
+        "name": "الفاتحة",
+        "ayahs": 7,
+        "audio": {
+            "maher_almuaiqly": "https:\\/\\/verses.quran.com\\/Alafasy\\/001.mp3",
+            "mishari_al_afasy": "https:\\/\\/everyayah.com\\/data\\/Alafasy_128kbps\\/001.mp3",
+            "abdul_baset_abdulsamad": "https:\\/\\/server7.mp3quran.net\\/basit\\/001.mp3",
+            "ahmad_al_ajmy": "https:\\/\\/server10.mp3quran.net\\/ajm\\/001.mp3",
+            "khalil_al_husary": "https:\\/\\/server13.mp3quran.net\\/husr\\/001.mp3"
+        }
+    },
+    {
+        "number": 2,
+        "name": "البقرة",
+        "ayahs": 286,
+        "audio": {
+            "maher_almuaiqly": "https:\\/\\/verses.quran.com\\/Alafasy\\/002.mp3",
+            "mishari_al_afasy": "https:\\/\\/everyayah.com\\/data\\/Alafasy_128kbps\\/002.mp3",
+            "abdul_baset_abdulsamad": "https:\\/\\/server7.mp3quran.net\\/basit\\/002.mp3",
+            "ahmad_al_ajmy": "https:\\/\\/server8.mp3quran.net\\/ajm\\/002.mp3",
+            "khalil_al_husary": "https:\\/\\/server13.mp3quran.net\\/husr\\/002.mp3"
+        }
+    },
+    {
+        "number": 3,
+        "name": "آل عمران",
+        "ayahs": 200,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/003.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/003.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/003.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/003.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/003.mp3"
+        }
+    },
+    {
+        "number": 4,
+        "name": "النساء",
+        "ayahs": 176,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/004.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/004.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/004.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/004.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/004.mp3"
+        }
+    },
+    {
+        "number": 5,
+        "name": "المائدة",
+        "ayahs": 120,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/005.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/005.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/005.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/005.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/005.mp3"
+        }
+    },
+    {
+        "number": 6,
+        "name": "الأنعام",
+        "ayahs": 165,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/006.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/006.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/006.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/006.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/006.mp3"
+        }
+    },
+    {
+        "number": 7,
+        "name": "الأعراف",
+        "ayahs": 206,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/007.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/007.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/007.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/007.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/007.mp3"
+        }
+    },
+    {
+        "number": 8,
+        "name": "الأنفال",
+        "ayahs": 75,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/008.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/008.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/008.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/008.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/008.mp3"
+        }
+    },
+    {
+        "number": 9,
+        "name": "التوبة",
+        "ayahs": 129,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/009.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/009.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/009.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/009.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/009.mp3"
+        }
+    },
+    {
+        "number": 10,
+        "name": "يونس",
+        "ayahs": 109,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/010.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/010.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/010.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/010.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/010.mp3"
+        }
+    },
+    {
+        "number": 11,
+        "name": "هود",
+        "ayahs": 123,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/011.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/011.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/011.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/011.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/011.mp3"
+        }
+    },
+    {
+        "number": 12,
+        "name": "يوسف",
+        "ayahs": 111,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/012.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/012.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/012.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/012.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/012.mp3"
+        }
+    },
+    {
+        "number": 13,
+        "name": "الرعد",
+        "ayahs": 43,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/013.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/013.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/013.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/013.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/013.mp3"
+        }
+    },
+    {
+        "number": 14,
+        "name": "إبراهيم",
+        "ayahs": 52,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/014.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/014.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/014.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/014.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/014.mp3"
+        }
+    },
+    {
+        "number": 15,
+        "name": "الحجر",
+        "ayahs": 99,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/015.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/015.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/015.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/015.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/015.mp3"
+        }
+    },
+    {
+        "number": 16,
+        "name": "النحل",
+        "ayahs": 128,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/016.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/016.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/016.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/016.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/016.mp3"
+        }
+    },
+    {
+        "number": 17,
+        "name": "الإسراء",
+        "ayahs": 111,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/017.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/017.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/017.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/017.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/017.mp3"
+        }
+    },
+    {
+        "number": 18,
+        "name": "الكهف",
+        "ayahs": 110,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/018.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/018.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/018.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/018.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/018.mp3"
+        }
+    },
+    {
+        "number": 19,
+        "name": "مريم",
+        "ayahs": 98,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/019.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/019.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/019.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/019.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/019.mp3"
+        }
+    },
+    {
+        "number": 20,
+        "name": "طه",
+        "ayahs": 135,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/020.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/020.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/020.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/020.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/020.mp3"
+        }
+    },
+    {
+        "number": 21,
+        "name": "الأنبياء",
+        "ayahs": 112,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/021.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/021.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/021.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/021.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/021.mp3"
+        }
+    },
+    {
+        "number": 22,
+        "name": "الحج",
+        "ayahs": 78,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/022.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/022.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/022.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/022.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/022.mp3"
+        }
+    },
+    {
+        "number": 23,
+        "name": "المؤمنون",
+        "ayahs": 118,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/023.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/023.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/023.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/023.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/023.mp3"
+        }
+    },
+    {
+        "number": 24,
+        "name": "النور",
+        "ayahs": 64,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/024.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/024.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/024.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/024.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/024.mp3"
+        }
+    },
+    {
+        "number": 25,
+        "name": "الفرقان",
+        "ayahs": 77,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/025.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/025.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/025.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/025.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/025.mp3"
+        }
+    },
+    {
+        "number": 26,
+        "name": "الشعراء",
+        "ayahs": 227,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/026.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/026.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/026.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/026.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/026.mp3"
+        }
+    },
+    {
+        "number": 27,
+        "name": "النمل",
+        "ayahs": 93,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/027.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/027.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/027.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/027.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/027.mp3"
+        }
+    },
+    {
+        "number": 28,
+        "name": "القصص",
+        "ayahs": 88,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/028.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/028.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/028.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/028.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/028.mp3"
+        }
+    },
+    {
+        "number": 29,
+        "name": "العنكبوت",
+        "ayahs": 69,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/029.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/029.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/029.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/029.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/029.mp3"
+        }
+    },
+    {
+        "number": 30,
+        "name": "الروم",
+        "ayahs": 60,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/030.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/030.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/030.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/030.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/030.mp3"
+        }
+    },
+    {
+        "number": 31,
+        "name": "لقمان",
+        "ayahs": 34,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/031.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/031.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/031.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/031.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/031.mp3"
+        }
+    },
+    {
+        "number": 32,
+        "name": "السجدة",
+        "ayahs": 30,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/032.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/032.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/032.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/032.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/032.mp3"
+        }
+    },
+    {
+        "number": 33,
+        "name": "الأحزاب",
+        "ayahs": 73,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/033.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/033.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/033.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/033.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/033.mp3"
+        }
+    },
+    {
+        "number": 34,
+        "name": "سبأ",
+        "ayahs": 54,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/034.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/034.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/034.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/034.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/034.mp3"
+        }
+    },
+    {
+        "number": 35,
+        "name": "فاطر",
+        "ayahs": 45,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/035.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/035.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/035.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/035.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/035.mp3"
+        }
+    },
+    {
+        "number": 36,
+        "name": "يس",
+        "ayahs": 83,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/036.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/036.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/036.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/036.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/036.mp3"
+        }
+    },
+    {
+        "number": 37,
+        "name": "الصافات",
+        "ayahs": 182,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/037.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/037.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/037.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/037.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/037.mp3"
+        }
+    },
+    {
+        "number": 38,
+        "name": "ص",
+        "ayahs": 88,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/038.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/038.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/038.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/038.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/038.mp3"
+        }
+    },
+    {
+        "number": 39,
+        "name": "الزمر",
+        "ayahs": 75,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/039.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/039.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/039.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/039.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/039.mp3"
+        }
+    },
+    {
+        "number": 40,
+        "name": "غافر",
+        "ayahs": 85,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/040.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/040.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/040.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/040.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/040.mp3"
+        }
+    },
+    {
+        "number": 41,
+        "name": "فصلت",
+        "ayahs": 54,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/041.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/041.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/041.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/041.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/041.mp3"
+        }
+    },
+    {
+        "number": 42,
+        "name": "الشورى",
+        "ayahs": 53,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/042.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/042.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/042.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/042.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/042.mp3"
+        }
+    },
+    {
+        "number": 43,
+        "name": "الزخرف",
+        "ayahs": 89,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/043.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/043.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/043.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/043.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/043.mp3"
+        }
+    },
+    {
+        "number": 44,
+        "name": "الدخان",
+        "ayahs": 59,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/044.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/044.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/044.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/044.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/044.mp3"
+        }
+    },
+    {
+        "number": 45,
+        "name": "الجاثية",
+        "ayahs": 37,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/045.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/045.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/045.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/045.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/045.mp3"
+        }
+    },
+    {
+        "number": 46,
+        "name": "الأحقاف",
+        "ayahs": 35,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/046.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/046.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/046.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/046.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/046.mp3"
+        }
+    },
+    {
+        "number": 47,
+        "name": "محمد",
+        "ayahs": 38,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/047.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/047.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/047.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/047.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/047.mp3"
+        }
+    },
+    {
+        "number": 48,
+        "name": "الفتح",
+        "ayahs": 29,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/048.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/048.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/048.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/048.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/048.mp3"
+        }
+    },
+    {
+        "number": 49,
+        "name": "الحجرات",
+        "ayahs": 18,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/049.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/049.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/049.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/049.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/049.mp3"
+        }
+    },
+    {
+        "number": 50,
+        "name": "ق",
+        "ayahs": 45,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/050.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/050.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/050.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/050.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/050.mp3"
+        }
+    },
+    {
+        "number": 51,
+        "name": "الذاريات",
+        "ayahs": 60,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/051.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/051.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/051.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/051.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/051.mp3"
+        }
+    },
+    {
+        "number": 52,
+        "name": "الطور",
+        "ayahs": 49,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/052.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/052.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/052.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/052.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/052.mp3"
+        }
+    },
+    {
+        "number": 53,
+        "name": "النجم",
+        "ayahs": 62,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/053.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/053.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/053.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/053.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/053.mp3"
+        }
+    },
+    {
+        "number": 54,
+        "name": "القمر",
+        "ayahs": 55,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/054.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/054.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/054.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/054.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/054.mp3"
+        }
+    },
+    {
+        "number": 55,
+        "name": "الرحمن",
+        "ayahs": 78,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/055.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/055.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/055.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/055.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/055.mp3"
+        }
+    },
+    {
+        "number": 56,
+        "name": "الواقعة",
+        "ayahs": 96,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/056.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/056.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/056.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/056.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/056.mp3"
+        }
+    },
+    {
+        "number": 57,
+        "name": "الحديد",
+        "ayahs": 29,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/057.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/057.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/057.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/057.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/057.mp3"
+        }
+    },
+    {
+        "number": 58,
+        "name": "المجادلة",
+        "ayahs": 22,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/058.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/058.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/058.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/058.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/058.mp3"
+        }
+    },
+    {
+        "number": 59,
+        "name": "الحشر",
+        "ayahs": 24,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/059.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/059.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/059.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/059.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/059.mp3"
+        }
+    },
+    {
+        "number": 60,
+        "name": "الممتحنة",
+        "ayahs": 13,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/060.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/060.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/060.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/060.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/060.mp3"
+        }
+    },
+    {
+        "number": 61,
+        "name": "الصف",
+        "ayahs": 14,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/061.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/061.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/061.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/061.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/061.mp3"
+        }
+    },
+    {
+        "number": 62,
+        "name": "الجمعة",
+        "ayahs": 11,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/062.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/062.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/062.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/062.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/062.mp3"
+        }
+    },
+    {
+        "number": 63,
+        "name": "المنافقون",
+        "ayahs": 11,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/063.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/063.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/063.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/063.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/063.mp3"
+        }
+    },
+    {
+        "number": 64,
+        "name": "التحريم",
+        "ayahs": 18,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/064.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/064.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/064.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/064.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/064.mp3"
+        }
+    },
+    {
+        "number": 65,
+        "name": "الطلاق",
+        "ayahs": 12,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/065.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/065.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/065.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/065.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/065.mp3"
+        }
+    },
+    {
+        "number": 66,
+        "name": "التحريم",
+        "ayahs": 12,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/066.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/066.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/066.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/066.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/066.mp3"
+        }
+    },
+    {
+        "number": 67,
+        "name": "الملك",
+        "ayahs": 30,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/067.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/067.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/067.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/067.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/067.mp3"
+        }
+    },
+    {
+        "number": 68,
+        "name": "القلم",
+        "ayahs": 52,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/068.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/068.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/068.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/068.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/068.mp3"
+        }
+    },
+    {
+        "number": 69,
+        "name": "الحاقة",
+        "ayahs": 52,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/069.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/069.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/069.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/069.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/069.mp3"
+        }
+    },
+    {
+        "number": 70,
+        "name": "المعارج",
+        "ayahs": 44,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/070.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/070.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/070.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/070.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/070.mp3"
+        }
+    },
+    {
+        "number": 71,
+        "name": "نوح",
+        "ayahs": 28,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/071.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/071.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/071.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/071.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/071.mp3"
+        }
+    },
+    {
+        "number": 72,
+        "name": "الجن",
+        "ayahs": 28,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/072.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/072.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/072.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/072.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/072.mp3"
+        }
+    },
+    {
+        "number": 73,
+        "name": "المزمل",
+        "ayahs": 20,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/073.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/073.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/073.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/073.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/073.mp3"
+        }
+    },
+    {
+        "number": 74,
+        "name": "المدثر",
+        "ayahs": 56,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/074.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/074.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/074.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/074.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/074.mp3"
+        }
+    },
+    {
+        "number": 75,
+        "name": "القيامة",
+        "ayahs": 40,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/075.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/075.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/075.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/075.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/075.mp3"
+        }
+    },
+    {
+        "number": 76,
+        "name": "الإنسان",
+        "ayahs": 31,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/076.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/076.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/076.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/076.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/076.mp3"
+        }
+    },
+    {
+        "number": 77,
+        "name": "المرسلات",
+        "ayahs": 50,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/077.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/077.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/077.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/077.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/077.mp3"
+        }
+    },
+    {
+        "number": 78,
+        "name": "النبأ",
+        "ayahs": 40,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/078.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/078.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/078.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/078.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/078.mp3"
+        }
+    },
+    {
+        "number": 79,
+        "name": "النازعات",
+        "ayahs": 46,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/079.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/079.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/079.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/079.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/079.mp3"
+        }
+    },
+    {
+        "number": 80,
+        "name": "عبس",
+        "ayahs": 42,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/080.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/080.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/080.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/080.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/080.mp3"
+        }
+    },
+    {
+        "number": 81,
+        "name": "التكوير",
+        "ayahs": 29,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/081.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/081.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/081.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/081.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/081.mp3"
+        }
+    },
+    {
+        "number": 82,
+        "name": "الانفطار",
+        "ayahs": 19,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/082.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/082.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/082.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/082.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/082.mp3"
+        }
+    },
+    {
+        "number": 83,
+        "name": "المطففين",
+        "ayahs": 36,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/083.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/083.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/083.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/083.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/083.mp3"
+        }
+    },
+    {
+        "number": 84,
+        "name": "الانشقاق",
+        "ayahs": 25,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/084.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/084.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/084.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/084.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/084.mp3"
+        }
+    },
+    {
+        "number": 85,
+        "name": "البروج",
+        "ayahs": 22,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/085.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/085.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/085.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/085.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/085.mp3"
+        }
+    },
+    {
+        "number": 86,
+        "name": "الطارق",
+        "ayahs": 17,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/086.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/086.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/086.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/086.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/086.mp3"
+        }
+    },
+    {
+        "number": 87,
+        "name": "الأعلى",
+        "ayahs": 19,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/087.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/087.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/087.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/087.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/087.mp3"
+        }
+    },
+    {
+        "number": 88,
+        "name": "الغاشية",
+        "ayahs": 26,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/088.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/088.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/088.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/088.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/088.mp3"
+        }
+    },
+    {
+        "number": 89,
+        "name": "الفجر",
+        "ayahs": 30,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/089.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/089.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/089.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/089.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/089.mp3"
+        }
+    },
+    {
+        "number": 90,
+        "name": "البلد",
+        "ayahs": 20,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/090.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/090.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/090.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/090.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/090.mp3"
+        }
+    },
+    {
+        "number": 91,
+        "name": "الشمس",
+        "ayahs": 15,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/091.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/091.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/091.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/091.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/091.mp3"
+        }
+    },
+    {
+        "number": 92,
+        "name": "الليل",
+        "ayahs": 21,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/092.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/092.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/092.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/092.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/092.mp3"
+        }
+    },
+    {
+        "number": 93,
+        "name": "الضحى",
+        "ayahs": 11,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/093.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/093.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/093.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/093.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/093.mp3"
+        }
+    },
+    {
+        "number": 94,
+        "name": "الشرح",
+        "ayahs": 8,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/094.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/094.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/094.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/094.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/094.mp3"
+        }
+    },
+    {
+        "number": 95,
+        "name": "التين",
+        "ayahs": 8,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/095.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/095.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/095.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/095.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/095.mp3"
+        }
+    },
+    {
+        "number": 96,
+        "name": "العلق",
+        "ayahs": 19,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/096.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/096.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/096.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/096.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/096.mp3"
+        }
+    },
+    {
+        "number": 97,
+        "name": "القدر",
+        "ayahs": 5,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/097.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/097.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/097.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/097.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/097.mp3"
+        }
+    },
+    {
+        "number": 98,
+        "name": "البينة",
+        "ayahs": 8,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/098.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/098.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/098.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/098.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/098.mp3"
+        }
+    },
+    {
+        "number": 99,
+        "name": "الزلزلة",
+        "ayahs": 8,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/099.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/099.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/099.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/099.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/099.mp3"
+        }
+    },
+    {
+        "number": 100,
+        "name": "العاديات",
+        "ayahs": 11,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/100.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/100.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/100.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/100.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/100.mp3"
+        }
+    },
+    {
+        "number": 101,
+        "name": "القارعة",
+        "ayahs": 11,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/101.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/101.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/101.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/101.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/101.mp3"
+        }
+    },
+    {
+        "number": 102,
+        "name": "التكاثر",
+        "ayahs": 8,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/102.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/102.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/102.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/102.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/102.mp3"
+        }
+    },
+    {
+        "number": 103,
+        "name": "العصر",
+        "ayahs": 3,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/103.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/103.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/103.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/103.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/103.mp3"
+        }
+    },
+    {
+        "number": 104,
+        "name": "الهمزة",
+        "ayahs": 9,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/104.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/104.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/104.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/104.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/104.mp3"
+        }
+    },
+    {
+        "number": 105,
+        "name": "الفيل",
+        "ayahs": 5,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/105.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/105.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/105.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/105.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/105.mp3"
+        }
+    },
+    {
+        "number": 106,
+        "name": "قريش",
+        "ayahs": 4,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/106.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/106.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/106.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/106.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/106.mp3"
+        }
+    },
+    {
+        "number": 107,
+        "name": "الماعون",
+        "ayahs": 7,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/107.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/107.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/107.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/107.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/107.mp3"
+        }
+    },
+    {
+        "number": 108,
+        "name": "الكوثر",
+        "ayahs": 3,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/108.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/108.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/108.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/108.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/108.mp3"
+        }
+    },
+    {
+        "number": 109,
+        "name": "الكافرون",
+        "ayahs": 6,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/109.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/109.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/109.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/109.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/109.mp3"
+        }
+    },
+    {
+        "number": 110,
+        "name": "النصر",
+        "ayahs": 3,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/110.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/110.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/110.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/110.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/110.mp3"
+        }
+    },
+    {
+        "number": 111,
+        "name": "المسد",
+        "ayahs": 5,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/111.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/111.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/111.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/111.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/111.mp3"
+        }
+    },
+    {
+        "number": 112,
+        "name": "الإخلاص",
+        "ayahs": 4,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/112.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/112.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/112.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/112.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/112.mp3"
+        }
+    },
+    {
+        "number": 113,
+        "name": "الفلق",
+        "ayahs": 5,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/113.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/113.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/113.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/113.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/113.mp3"
+        }
+    },
+    {
+        "number": 114,
+        "name": "الناس",
+        "ayahs": 6,
+        "audio": {
+            "maher_almuaiqly": "https:\/\/verses.quran.com\/Alafasy\/114.mp3",
+            "mishari_al_afasy": "https:\/\/everyayah.com\/data\/Alafasy_128kbps\/114.mp3",
+            "abdul_baset_abdulsamad": "https:\/\/server7.mp3quran.net\/basit\/114.mp3",
+            "ahmad_al_ajmy": "https:\/\/server13.mp3quran.net\/ahmad_huth\/114.mp3",
+            "khalil_al_husary": "https:\/\/server13.mp3quran.net\/husr\/114.mp3"
+        }
+    }
+]

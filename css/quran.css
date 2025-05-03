@@ -1,0 +1,338 @@
+:root {
+    --quran-primary: #1F4B3F;
+    --quran-secondary: #2C6B5B;
+    --quran-gold: #D4AF37;
+    --quran-light-gold: #F5E8C0;
+    --quran-dark: #1A3026;
+    --quran-light: #F5F9F7;
+    --quran-text: #333;
+    --quran-shadow: 0 4px 20px rgba(31, 75, 63, 0.2);
+    --quran-transition: all 0.3s ease;
+}
+
+/* تنسيق صفحة القرآن */
+.quran-page {
+    background: var(--quran-light);
+    min-height: 100vh;
+    padding: 40px 0;
+    background-image: url('../images/quran-bg-pattern.png');
+    background-repeat: repeat;
+    background-size: 200px;
+    background-opacity: 0.1;
+}
+
+.quran-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* تنسيق رأس صفحة القرآن */
+.quran-header {
+    text-align: center;
+    margin-bottom: 40px;
+    position: relative;
+}
+
+.quran-header::before,
+.quran-header::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    width: 100px;
+    height: 2px;
+    background: linear-gradient(90deg, var(--quran-gold), transparent);
+}
+
+.quran-header::before {
+    left: 0;
+    transform: translateX(-100%);
+}
+
+.quran-header::after {
+    right: 0;
+    transform: translateX(100%) rotate(180deg);
+}
+
+.quran-title {
+    font-size: 2.5rem;
+    color: var(--quran-primary);
+    margin-bottom: 10px;
+    font-weight: 700;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* تنسيق محتوى القرآن */
+.quran-content {
+    display: flex;
+    flex-direction: column;
+    background: white;
+    border-radius: 15px;
+    box-shadow: var(--quran-shadow);
+    overflow: hidden;
+    border: 1px solid var(--quran-light-gold);
+    padding: 30px;
+}
+
+/* تنسيق قائمة السور الجديد */
+.surahs-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(45px, 1fr));
+    gap: 8px;
+    padding: 20px;
+    background: var(--quran-light);
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+.surah-number {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    aspect-ratio: 1;
+    background: white;
+    border: 1px solid var(--quran-light-gold);
+    border-radius: 8px;
+    color: var(--quran-primary);
+    font-size: 0.9rem;
+    font-weight: 500;
+    text-decoration: none;
+    transition: var(--quran-transition);
+    position: relative;
+    overflow: hidden;
+}
+
+.surah-number:hover,
+.surah-number.active {
+    background: var(--quran-primary);
+    color: white;
+    border-color: var(--quran-gold);
+    transform: translateY(-2px);
+    box-shadow: var(--quran-shadow);
+}
+
+.surah-number::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: var(--quran-gold);
+    transform: scaleX(0);
+    transition: var(--quran-transition);
+}
+
+.surah-number:hover::before,
+.surah-number.active::before {
+    transform: scaleX(1);
+}
+
+/* تنسيق محتوى القرآن */
+.quran-content {
+    display: flex;
+    flex-direction: column;
+    background: white;
+    border-radius: 15px;
+    box-shadow: var(--quran-shadow);
+    overflow: hidden;
+    border: 1px solid var(--quran-light-gold);
+    padding: 30px;
+}
+
+/* تنسيق الآيات */
+.ayah-container {
+    margin-bottom: 30px;
+    padding: 25px;
+    background: var(--quran-light);
+    border-radius: 15px;
+    position: relative;
+    transition: var(--quran-transition);
+    border: 1px solid var(--quran-light-gold);
+}
+
+.ayah-container:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--quran-shadow);
+    border-color: var(--quran-gold);
+}
+
+.ayah-text {
+    font-family: 'Uthmanic', 'Traditional Arabic', serif;
+    font-size: 2rem;
+    line-height: 2.8;
+    color: var(--quran-text);
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.ayah-number {
+    position: absolute;
+    top: -12px;
+    right: -12px;
+    width: 35px;
+    height: 35px;
+    background: var(--quran-gold);
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 0.9rem;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+/* تنسيق البسملة */
+.bismillah {
+    text-align: center;
+    margin-bottom: 40px;
+    padding: 20px;
+    font-family: 'Uthmanic', 'Traditional Arabic', serif;
+    font-size: 2.2rem;
+    color: var(--quran-primary);
+    position: relative;
+}
+
+.bismillah::before,
+.bismillah::after {
+    content: '۞';
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--quran-gold);
+    font-size: 1.5rem;
+}
+
+.bismillah::before {
+    right: 20px;
+}
+
+.bismillah::after {
+    left: 20px;
+}
+
+/* تنسيق معلومات السورة */
+.surah-info-container {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 30px;
+    padding: 15px;
+    background: var(--quran-light);
+    border-radius: 10px;
+    border: 1px solid var(--quran-light-gold);
+}
+
+.surah-info-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: var(--quran-primary);
+}
+
+.surah-info-item i {
+    color: var(--quran-gold);
+    font-size: 1.2rem;
+}
+
+/* تنسيق البحث */
+.search-container {
+    margin-bottom: 30px;
+    position: relative;
+}
+
+.search-input {
+    width: 100%;
+    padding: 15px 20px;
+    border: 2px solid var(--quran-light-gold);
+    border-radius: 10px;
+    font-size: 1.1rem;
+    transition: var(--quran-transition);
+}
+
+.search-input:focus {
+    border-color: var(--quran-gold);
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(212, 175, 55, 0.2);
+}
+
+.search-button {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    color: var(--quran-primary);
+    cursor: pointer;
+    font-size: 1.2rem;
+}
+
+/* تنسيق التفسير */
+.tafseer-container {
+    margin-top: 30px;
+    padding: 20px;
+    background: var(--quran-light);
+    border-radius: 10px;
+    border: 1px solid var(--quran-light-gold);
+}
+
+.tafseer-title {
+    font-size: 1.3rem;
+    color: var(--quran-primary);
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid var(--quran-gold);
+}
+
+.tafseer-text {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: var(--quran-text);
+}
+
+/* تنسيق التجاوب */
+@media (max-width: 992px) {
+    .quran-content {
+        grid-template-columns: 1fr;
+    }
+    
+    .surah-list {
+        max-height: 300px;
+        overflow-y: auto;
+    }
+}
+
+@media (max-width: 768px) {
+    .quran-title {
+        font-size: 2rem;
+    }
+    
+    .surah-name {
+        font-size: 1.8rem;
+    }
+    
+    .ayah-text {
+        font-size: 1.6rem;
+    }
+}
+
+@media (max-width: 576px) {
+    .quran-page {
+        padding: 20px 0;
+    }
+    
+    .quran-title {
+        font-size: 1.8rem;
+    }
+    
+    .surah-content {
+        padding: 20px;
+    }
+    
+    .ayah-text {
+        font-size: 1.4rem;
+    }
+} 

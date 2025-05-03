@@ -1,0 +1,67 @@
+.notification {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 15px 25px;
+    border-radius: 8px;
+    color: #fff;
+    font-size: 16px;
+    font-family: 'Tajawal', sans-serif;
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.3s ease, transform 0.3s ease;
+    z-index: 1000;
+    direction: rtl;
+    text-align: right;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    min-width: 250px;
+}
+
+.notification.show {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.notification.success {
+    background-color: #28a745;
+    border-right: 4px solid #1e7e34;
+}
+
+.notification.error {
+    background-color: #dc3545;
+    border-right: 4px solid #bd2130;
+}
+
+/* Favorite button styles */
+.favorite-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 6px;
+    background-color: #f8f9fa;
+    color: #333;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-family: 'Tajawal', sans-serif;
+    direction: rtl;
+}
+
+.favorite-btn:hover {
+    background-color: #e9ecef;
+}
+
+.favorite-btn.active {
+    background-color: #fff3cd;
+    color: #856404;
+}
+
+.favorite-btn i {
+    font-size: 18px;
+    margin-left: 5px;
+}
+
+.favorite-btn.active i {
+    color: #ffc107;
+} 

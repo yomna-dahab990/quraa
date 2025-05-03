@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>المصحف الشريف - موقع قراء</title>
+    <meta name="description" content="المصحف الشريف مع التفسير والتلاوات">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/quran.css">
+</head>
+<body>
+    <!-- الهيدر -->
+    <header class="site-header">
+        <div class="container">
+            <div class="header-content">
+                <a href="index.html" class="logo">
+                    <i class="fas fa-quran"></i>
+                    <span>قراء</span>
+                </a>
+                
+                <button class="mobile-menu-toggle" aria-label="قائمة الموقع">
+                    <i class="fas fa-bars"></i>
+                </button>
+                
+                <nav class="main-nav">
+                    <ul>
+                        <li><a href="index.html">الرئيسية</a></li>
+                        <li><a href="quran.html" class="active">المصحف</a></li>
+                        <li><a href="azkar.html">الأذكار</a></li>
+                        <li><a href="tafseer.html">التفسير</a></li>
+                        <li><a href="readers.html">القراء</a></li>
+                    </ul>
+                </nav>
+                
+                <div class="header-actions">
+                    <button class="search-btn" aria-label="بحث">
+                        <i class="fas fa-search"></i>
+                    </button>
+                    <a href="log.html" class="user-btn" aria-label="حساب المستخدم">
+                        <i class="fas fa-user"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- محتوى القرآن -->
+    <main class="quran-page">
+        <div class="quran-container">
+            <div class="quran-header">
+                <h1 class="quran-title">المصحف الشريف</h1>
+            </div>
+
+            <!-- شبكة أرقام السور -->
+            <div class="surahs-grid">
+                <!-- سيتم إنشاء 114 رقم للسور باستخدام JavaScript -->
+            </div>
+
+            <div class="quran-content">
+                <div class="search-container">
+                    <input type="text" class="search-input" placeholder="ابحث في القرآن الكريم...">
+                    <button class="search-button">
+                        <i class="fas fa-search"></i>
+                    </button>
+                </div>
+
+                <div class="surah-info-container">
+                    <div class="surah-info-item">
+                        <i class="fas fa-book-open"></i>
+                        <span>سورة الفاتحة</span>
+                    </div>
+                    <div class="surah-info-item">
+                        <i class="fas fa-map-marker-alt"></i>
+                        <span>مكية</span>
+                    </div>
+                    <div class="surah-info-item">
+                        <i class="fas fa-hashtag"></i>
+                        <span>عدد الآيات: 7</span>
+                    </div>
+                </div>
+
+                <div class="bismillah">
+                    بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
+                </div>
+
+                <div class="ayah-container">
+                    <span class="ayah-number">1</span>
+                    <p class="ayah-text">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ</p>
+                </div>
+
+                <div class="ayah-container">
+                    <span class="ayah-number">2</span>
+                    <p class="ayah-text">الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ</p>
+                </div>
+
+                <div class="ayah-container">
+                    <span class="ayah-number">3</span>
+                    <p class="ayah-text">الرَّحْمَنِ الرَّحِيمِ</p>
+                </div>
+
+                <div class="ayah-container">
+                    <span class="ayah-number">4</span>
+                    <p class="ayah-text">مَالِكِ يَوْمِ الدِّينِ</p>
+                </div>
+
+                <div class="ayah-container">
+                    <span class="ayah-number">5</span>
+                    <p class="ayah-text">إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ</p>
+                </div>
+
+                <div class="ayah-container">
+                    <span class="ayah-number">6</span>
+                    <p class="ayah-text">اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ</p>
+                </div>
+
+                <div class="ayah-container">
+                    <span class="ayah-number">7</span>
+                    <p class="ayah-text">صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ</p>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- الفوتر -->
+    <footer class="site-footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section about-section">
+                    <h3>عن موقع قراء</h3>
+                    <p>موقع إسلامي متخصص في خدمة القرآن الكريم وعلومه، يقدم المصحف الإلكتروني، التلاوات، التفاسير، والأذكار اليومية.</p>
+                    <div class="social-links">
+                        <a href="#" aria-label="فيسبوك"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#" aria-label="تويتر"><i class="fab fa-twitter"></i></a>
+                        <a href="#" aria-label="يوتيوب"><i class="fab fa-youtube"></i></a>
+                    </div>
+                </div>
+                <div class="footer-section links-section">
+                    <h3>روابط سريعة</h3>
+                    <ul>
+                        <li><a href="index.html">الرئيسية</a></li>
+                        <li><a href="quran.html">المصحف الشريف</a></li>
+                        <li><a href="azkar.html">الأذكار اليومية</a></li>
+                        <li><a href="tafseer.html">تفسير القرآن</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section contact-section">
+                    <h3>تواصل معنا</h3>
+                    <ul>
+                        <li><i class="fas fa-envelope"></i> info@quraa.com</li>
+                        <li><i class="fas fa-phone"></i>+20123456789</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; <span id="current-year"></span> موقع قراء - جميع الحقوق محفوظة</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+    <script>
+        // تحديث سنة حقوق النشر
+        document.getElementById('current-year').textContent = new Date().getFullYear();
+
+        // إنشاء أرقام السور
+        document.addEventListener('DOMContentLoaded', function() {
+            const surahsGrid = document.querySelector('.surahs-grid');
+            for (let i = 1; i <= 114; i++) {
+                const surahNumber = document.createElement('a');
+                surahNumber.href = `#surah-${i}`;
+                surahNumber.className = 'surah-number';
+                surahNumber.textContent = i;
+                if (i === 1) surahNumber.classList.add('active');
+                surahsGrid.appendChild(surahNumber);
+            }
+        });
+    </script>
+</body>
+</html> 
